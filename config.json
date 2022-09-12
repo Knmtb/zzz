@@ -1,0 +1,9 @@
+{
+	"ip":"Kentalexander.aternos.me",
+	"port": "32541",
+	"name": "Kentcraftsrv",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register kent3344 ",
+	"login-cmd":"/login kent3344 "
+}
